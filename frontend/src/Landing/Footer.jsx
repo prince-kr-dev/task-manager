@@ -19,7 +19,7 @@ function Footer() {
           </p>
 
           <div className="flex gap-4 text-gray-500 text-lg">
-            <a href="#" className="hover:text-gray-900">
+            <a href="https://github.com/prince-kr-dev/task-manager" className="hover:text-gray-900">
               <Github />
             </a>
           </div>
