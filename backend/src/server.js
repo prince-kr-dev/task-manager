@@ -11,7 +11,7 @@ app.use(cookieParser());
 
 app.use(
   cors({
-    origin: "http://localhost:5173", // your frontend
+    origin: "https://task-manager-me-alpha.vercel.app", // your frontend
     methods: ["GET", "POST", "PATCH", "DELETE", "PUT", "OPTIONS"],
     credentials: true,
   })
